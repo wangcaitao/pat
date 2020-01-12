@@ -1,2 +1,9 @@
 # mac ignore
 .DS_Store
+
+# vscode ignore
+.vscode
+info.plist
+
+# c/c++ ignore
+*.out
