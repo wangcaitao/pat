@@ -4,6 +4,8 @@
 
 ### basic-level
 
+- [x] 1066
+
 ### advanced-level
 
 ### top-level
