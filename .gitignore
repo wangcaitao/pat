@@ -1,9 +1,14 @@
 # mac ignore
 .DS_Store
 
+# clion
+.idea/
+cmake-build-debug/
+CMakeLists.txt
+
 # vscode ignore
-.vscode
-info.plist
+.vscode/
+*.dSYM/
 
 # c/c++ ignore
 *.out
